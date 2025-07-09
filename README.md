@@ -2,7 +2,7 @@
 
 ## Tác giả
 - Họ tên: Đỗ Hoài Nam
-- MSSV: 2151160531
+- MSV: 2151160531
 - Lớp: 63HTTT1
 
 ## Nội dung
